@@ -10,7 +10,7 @@ About:
 # Top.Favorite:
 - [How do Graphics Cards Work? Exploring GPU Architecture](https://youtu.be/h9Z4oGN89MU)
 
-# Goal: Better Website & Community on BranchEdu.University.UniSocial.net
+# Goal: Better Website & Community on University.UniSocial.net/BranchEducation
 Build them a Drupal site with advanced features & OverlayApps using WebPlatform.ai!
 - Their website is built on SquareSpace!
 - https://branch.education/contact
