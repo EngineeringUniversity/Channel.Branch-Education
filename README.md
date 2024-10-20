@@ -12,6 +12,7 @@ About:
 - [How do Electron Microscopes Work? 🔬🛠🔬 Taking Pictures of Atoms](https://youtu.be/9DnnxvS6BBQ)
 
 # Goal: Better Website & Community on University.UniSocial.net/BranchEducation
-Build them a Drupal site with advanced features & OverlayApps using WebPlatform.ai!
+*Help them do for Engineers, what freeCodeCamp.org did for Software Developers!*
+Build them a Drupal site with advanced features & integration with UniSocialProtocol & OverlayApps using WebPlatform.ai!
 - Their website is built on SquareSpace!
 - https://branch.education/contact
